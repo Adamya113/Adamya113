@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Adamya, currently a 2nd year student at USAR😄. I love Artificial intelligence and data science. 
+I've created computer vision projects, robotics project (in e-yantra competition), visualization dashboards. 
+Currently I'm working on neural networks, more precisely, CNN (convolutional neural networks).
+
+You can reach me 💬 via linkedin: https://www.linkedin.com/in/adamya-gaur-52280b239/
+Or drop a mail at:gauradamya725@gmail.com
