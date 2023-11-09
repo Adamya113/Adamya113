@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Adamya, currently a 3rd year student at USAR😄. I love Artificial intelligence and data science. 
+I'm Adamya, currently a 3rd year student at University School of Automation & Robotics (USAR, GGSIPU EDC)😄. I love Artificial intelligence and data science. 
 I've created LLM, computer vision, robotics project (in e-yantra competition), visualization dashboards. 
 
 You can reach me 💬 via linkedin: https://www.linkedin.com/in/adamya-gaur-52280b239/
