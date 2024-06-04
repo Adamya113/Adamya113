@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f72585,100:4361ee&text=Hello%20I'm%20Adamya&textBg=false&fontAlign=51&animation=scaleIn&reversal=true&stroke=7A3891&strokeWidth=0&fontColor=FDFBFD%20&fontSize=70)
 <!--
 **Adamya113/Adamya113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Adamya, currently a 3rd year student at University School of Automation & Robotics (USAR, GGSIPU EDC)😄. I love Artificial intelligence and data science. 
-I've created LLM, computer vision, robotics project (in e-yantra competition), visualization dashboards. 
+I'm Adamya, currently a 3rd year student at University School of Automation & Robotics (USAR, GGSIPU EDC)😄.
+I love Artificial intelligence and data science. 
 
-You can reach me 💬 via linkedin: https://www.linkedin.com/in/adamya-gaur-52280b239/
-Or drop a mail at:gauradamya725@gmail.com
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f72585,100:4361ee&textBg=false&fontAlign=51&animation=scaleIn&reversal=true&stroke=7A3891&strokeWidth=0&fontColor=FDFBFD%20&fontSize=70&section=footer)
+
+-💬 You can reach me via linkedin: https://www.linkedin.com/in/adamya-G/
+
+-📫 Or drop a mail at:gauradamya725@gmail.com
