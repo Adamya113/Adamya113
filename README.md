@@ -37,4 +37,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f72585,100:4361ee&textBg=false&fontAlign=51&animation=scaleIn&reversal=true&stroke=7A3891&strokeWidth=0&fontColor=FDFBFD%20&fontSize=70&section=footer)
 
 <h2>Contributions</h2>
+
 ![Snake animation](https://github.com/Adamya113/Adamya113/blob/output/github-contribution-grid-snake.svg)
