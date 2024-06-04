@@ -1,24 +1,31 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f72585,100:4361ee&text=Hello%20I'm%20Adamya&textBg=false&fontAlign=51&animation=scaleIn&reversal=true&stroke=7A3891&strokeWidth=0&fontColor=FDFBFD%20&fontSize=70)
-<!--
-**Adamya113/Adamya113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm Adamya, currently a 3rd year student at University School of Automation & Robotics (USAR, GGSIPU EDC)😄.
 I love Artificial intelligence and data science. 
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f72585,100:4361ee&textBg=false&fontAlign=51&animation=scaleIn&reversal=true&stroke=7A3891&strokeWidth=0&fontColor=FDFBFD%20&fontSize=70&section=footer)
 
+-🌱 I’m currently learning ...
+
+## Let's Connect: 
 -💬 You can reach me via linkedin: https://www.linkedin.com/in/adamya-G/
 
--📫 Or drop a mail at:gauradamya725@gmail.com
+-📫 Or drop a mail at: gauradamya725@gmail.com
+
+
+<h2> 🚀 &nbsp;Tools, tech and languages I've used, learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"  alt="Pandas" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg"  alt="Numpy" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50" />        
+</p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f72585,100:4361ee&textBg=false&fontAlign=51&animation=scaleIn&reversal=true&stroke=7A3891&strokeWidth=0&fontColor=FDFBFD%20&fontSize=70&section=footer)
+
+![Snake animation](https://github.com/Adamya113/Adamya113/blob/output/github-contribution-grid-snake.svg)
