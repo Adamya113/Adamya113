@@ -36,8 +36,8 @@
 <h2>📈 GitHub Stats</h2>        
 </p>
 
-[![Adamya's GitHub stats](https://github-readme-stats-rho-two-56.vercel.app/api?username=Adamya113)](https://github.com/Adamya113/github-readme-stats)
-![Top Langs](https://github-readme-stats-rho-two-56.vercel.app/api/top-langs/?username=Adamya113&layout=compact)
+[![Adamya's GitHub stats](https://github-readme-stats-git-master-adamyas-projects-09f5d58f.vercel.app/api?username=Adamya113)](https://github.com/Adamya113/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-master-adamyas-projects-09f5d58f.vercel.app/api/top-langs/?username=Adamya113&layout=compact)
 
 <h2>Contributions</h2>
 
