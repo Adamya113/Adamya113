@@ -35,9 +35,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg"  width="50" height="50" />
 <h2>📈 GitHub Stats</h2>        
 </p>
-
-[![Adamya's GitHub stats](https://github-readme-stats-git-master-adamyas-projects-09f5d58f.vercel.app/api?username=Adamya113)](https://github.com/Adamya113/github-readme-stats)
-![Top Langs](https://github-readme-stats-git-master-adamyas-projects-09f5d58f.vercel.app/api/top-langs/?username=Adamya113&layout=compact)
+https:///
+[![Adamya's GitHub stats](https://github-readme-stats-ten-vert-28.vercel.app/api?username=Adamya113)](https://github.com/Adamya113/github-readme-stats)
+![Top Langs](https://github-readme-stats-ten-vert-28.vercel.app/api/top-langs/?username=Adamya113&layout=compact)
 
 <h2>Contributions</h2>
 
