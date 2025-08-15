@@ -2,7 +2,7 @@
 
 <h2>🔍 About Me</h2>
 <ul> 
- <li>🎓 Education: Currently pursuing my Bachelor's degree in Artificial Intelligence and Data Science. </li>
+ <li>🎓 Education: Pursued Bachelor's degree in Artificial Intelligence and Data Science. </li>
  <li>💻 Skills: Python, TensorFlow, PyTorch, Scikit-Learn, Natural Language Processing (NLP), Computer Vision.</li>
  <li>🧠 Interests: Deep Learning, Reinforcement Learning, AI Ethics, Data Science, Research.</li>
  <li>🌍 Goal: To harness the power of AI to create innovative solutions that positively impact society.</li>
